@@ -1,6 +1,6 @@
 # Schrödinger equation's solution
 
-Script that solves Schrödinger equation for a travelling wave and 
+Octave script that solves Schrödinger equation for a travelling wave and 
 plots on the same graph the wave probability distribution in different times. Three cases are considered:
 
 * Free particle
